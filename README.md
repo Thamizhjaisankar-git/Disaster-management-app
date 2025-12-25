@@ -74,11 +74,7 @@
 [Disaster management web link](https://disaster-management-app-delta.vercel.app/)
 
 
-##👨‍💻 Author
+## Author
 - **Thamizh Jaisankar**
 - 📧 [thamizhjaisankar@gmail.com](mailto:thamizhjaisankar@gmail.com)
 - 🔗 [Portfolio](https://thamizh-jl.vercel.app/) | [GitHub](https://github.com/Thamizhjaisankar-git) | [LinkedIn](https://www.linkedin.com/in/thamizhjaisankar)
-
-
-
-
