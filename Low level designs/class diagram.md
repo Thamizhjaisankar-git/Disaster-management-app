@@ -1,5 +1,6 @@
-``` mermaid
-classDiagram{
+```mermaid
+
+classDiagram
     Disaster &quot;1&quot; --&gt; &quot;1&quot; Recovery : tracked_by
     Disaster &quot;1&quot; --&gt; &quot;*&quot; Alert : generates
     Resource &quot;*&quot; --&gt; &quot;*&quot; Shelter : allocated_to
@@ -67,5 +68,5 @@ classDiagram{
         +String urgency
         +String status
     }
-}
+
 ```
