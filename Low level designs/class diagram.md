@@ -1,4 +1,4 @@
-```mermaid
+``` mermaid
 classDiagram
     Disaster &quot;1&quot; --&gt; &quot;1&quot; Recovery : tracked_by
     Disaster &quot;1&quot; --&gt; &quot;*&quot; Alert : generates
